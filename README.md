@@ -10,3 +10,4 @@ Steps to set up locally
 6. Run "npm start" to run locally on your machine
 
 Custom code is found in App.js and Components folder. Rest is boilerplate react code.
+When testing, relevant information can be gleaned about the PUT Request by opening up debugger console to view logs.
