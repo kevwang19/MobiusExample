@@ -8,3 +8,5 @@ Steps to set up locally
 4. Cd to the project root directory
 5. Run "npm install" to install dependencies
 6. Run "npm start" to run locally on your machine
+
+Custom code is found in App.js and Components folder. Rest is boilerplate react code.
